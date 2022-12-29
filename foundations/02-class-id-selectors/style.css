@@ -1,0 +1,15 @@
+.odds {
+  background-color: rgb(255, 90, 115);
+  font-family: Verdana, "DejaVu Sans" , sans-serif;
+}
+.font {
+  font-size: 24px;
+}
+#big-blue {
+  color: blue;
+  font-size: 36px;
+}
+#med-green {
+  background-color: rgb(144, 238, 144);
+  font-weight: bold;
+}
